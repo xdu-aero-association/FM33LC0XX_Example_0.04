@@ -1,0 +1,13 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armjlink2.dll" 
+
+"D:\FMSH驱动\FM402驱动\SVN\例程\ADC 示例\EWARM\Debug\Exe\FM33LC0XX_Tester.out" 
+
+--plugin "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--flash_loader "C:\Program Files\IAR Systems\Embedded Workbench 8.0\arm\config\flashloader\FMSH\FM33LC04x.board" 
+
+
+
+
